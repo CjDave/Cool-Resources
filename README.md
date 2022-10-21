@@ -43,7 +43,7 @@ Cool Online Resources, Authors, and Educational Contents
 - #### Free Icons [(Google Icons)](https://fonts.google.com/icons)
 - #### Photos/Icons [(The Noun Project)](https://thenounproject.com/) 
 - #### Photos/Graphic Designs [(Pixaby)](https://pixabay.com/)
-- #### Photos/Graphic/illustrations and more  Designs [(icons8)](https://icons8.com/)
+- #### Photos/Graphic/illustrations and more... [(icons8)](https://icons8.com/)
 
 # Others <a name="Others"></a>
 - #### Xamarin.Forms,.NET maui, designs [(AskXammy)](https://askxammy.com/)
